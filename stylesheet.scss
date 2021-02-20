@@ -1,0 +1,23 @@
+body{
+  margin: 0;
+  font-family: 'Arial','メイリオ', Meiryo,'Osaka','ヒラギノ角ゴシック','Hiragino Sans',sans-serif;
+}
+
+a{
+  text-decoration: none;
+}
+
+.container{
+  width: 1170px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin: auto;
+}
+
+.top-wraper{
+  padding-top: 180px;
+  padding-bottom: 100px;
+  background-image: url(https://www.canva.com/design/DAEWqHfXuVY/b_2mL3GtMgvurzlL_yW5FA/view?utm_content=DAEWqHfXuVY&utm_campaign=designshare&utm_medium=link&utm_source=viewer);
+  color: white;
+  background-size: cover;
+}
